@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Authentification/Authentification.iml" filepath="$PROJECT_DIR$/Authentification/Authentification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECF4.iml" filepath="$PROJECT_DIR$/.idea/ECF4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjetCelesteService/ObjetCelesteService.iml" filepath="$PROJECT_DIR$/ObjetCelesteService/ObjetCelesteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservationService/ObservationService.iml" filepath="$PROJECT_DIR$/ObservationService/ObservationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilisateurService/UtilisateurService.iml" filepath="$PROJECT_DIR$/UtilisateurService/UtilisateurService.iml" />
+    </modules>
+  </component>
+</project>
